@@ -1,7 +1,6 @@
 # Personal Portfolio Website
 
-This is a personal portfolio website built with Next.js, React, and Tailwind CSS, designed to be easily customizable. It features a dynamic "hyperspeed" background effect using Three.js and showcases skills, experience, projects, and contact information.
-
+This is a personal portfolio website built with Next.js, React, and Tailwind CSS, designed to be easily customizable.
 ## Getting Started
 
 To get a local copy up and running, follow these simple steps.
